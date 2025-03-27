@@ -1,3 +1,4 @@
 - 👋 Hallo, ich bin Martin Dienert
 - 👀 Ich interessiere mich für alles Mögliche. 
 - 🌱 Und ich lerne in Java zu programmieren.
+- 🌱 Nun ist auch noch etwas C++ dazu gekommen.
